@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"c:\Users\rennata home pc\documents\visual studio 2015\Projects\TheWorld\src\TheWorld\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"c:\Users\rennata home pc\documents\visual studio 2015\Projects\TheWorld\src\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.dll"
+"C:\Users\Rennata Home PC\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\Rennata Home PC\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.dll"
 -r:"C:\Users\Rennata Home PC\.nuget\packages\Microsoft.AspNetCore.Diagnostics\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Diagnostics.dll"
 -r:"C:\Users\Rennata Home PC\.nuget\packages\Microsoft.AspNetCore.Diagnostics.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll"
 -r:"C:\Users\Rennata Home PC\.nuget\packages\Microsoft.AspNetCore.Hosting\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Hosting.dll"
@@ -119,6 +119,6 @@
 -r:"C:\Users\Rennata Home PC\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Rennata Home PC\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Rennata Home PC\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"c:\Users\rennata home pc\documents\visual studio 2015\Projects\TheWorld\src\TheWorld\obj\Debug\netcoreapp1.0\TheWorlddotnet-compile.deps.json",TheWorld.deps.json
-"c:\Users\rennata home pc\documents\visual studio 2015\Projects\TheWorld\src\TheWorld\Program.cs"
-"c:\Users\rennata home pc\documents\visual studio 2015\Projects\TheWorld\src\TheWorld\Startup.cs"
+-resource:"C:\Users\Rennata Home PC\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\obj\Debug\netcoreapp1.0\TheWorlddotnet-compile.deps.json",TheWorld.deps.json
+"C:\Users\Rennata Home PC\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\Program.cs"
+"C:\Users\Rennata Home PC\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\Startup.cs"
